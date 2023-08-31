@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sunju-portfolio/static/css/main.10fe0f47.chunk.css",
+    "main.js": "/sunju-portfolio/static/js/main.32afe818.chunk.js",
+    "main.js.map": "/sunju-portfolio/static/js/main.32afe818.chunk.js.map",
+    "runtime-main.js": "/sunju-portfolio/static/js/runtime-main.8e520900.js",
+    "runtime-main.js.map": "/sunju-portfolio/static/js/runtime-main.8e520900.js.map",
+    "static/js/2.fbde5573.chunk.js": "/sunju-portfolio/static/js/2.fbde5573.chunk.js",
+    "static/js/2.fbde5573.chunk.js.map": "/sunju-portfolio/static/js/2.fbde5573.chunk.js.map",
+    "index.html": "/sunju-portfolio/index.html",
+    "precache-manifest.327c1f453339aa9a0c841cb15e1db805.js": "/sunju-portfolio/precache-manifest.327c1f453339aa9a0c841cb15e1db805.js",
+    "service-worker.js": "/sunju-portfolio/service-worker.js",
+    "static/css/main.10fe0f47.chunk.css.map": "/sunju-portfolio/static/css/main.10fe0f47.chunk.css.map",
+    "static/js/2.fbde5573.chunk.js.LICENSE.txt": "/sunju-portfolio/static/js/2.fbde5573.chunk.js.LICENSE.txt",
+    "static/media/discordIcon.svg": "/sunju-portfolio/static/media/discordIcon.9e14855e.svg",
+    "static/media/header__bg.png": "/sunju-portfolio/static/media/header__bg.418b0aa2.png",
+    "static/media/hero-image.png": "/sunju-portfolio/static/media/hero-image.3282563b.png",
+    "static/media/logo_main1.png": "/sunju-portfolio/static/media/logo_main1.b47e5188.png",
+    "static/media/skypeIcon.png": "/sunju-portfolio/static/media/skypeIcon.637736a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e520900.js",
+    "static/js/2.fbde5573.chunk.js",
+    "static/css/main.10fe0f47.chunk.css",
+    "static/js/main.32afe818.chunk.js"
+  ]
+}
